@@ -7,12 +7,6 @@ public class Main {
 
         System.out.println(bonus);
 
-//        int cost = 10_000;
-//        int rubles = 20;
-//        int miles = 1;
-//
-//        int bonus = cost / rubles * miles /100;
-//        System.out.println(bonus);
     }
 }
 

@@ -1,10 +1,9 @@
 public class BonusMilesService {
         public long calculate(int cost) {
 
-            int rubles = 20;
-            int miles = 1;
+            int milescount = 20;
 
-            int bonus = cost / rubles * miles / 100;
+            int bonus = cost / milescount;
 
             return bonus;
         }
